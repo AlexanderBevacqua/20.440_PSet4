@@ -11,7 +11,7 @@ Our team wrote the code ourselves in the Jupyter notebook to create a figure
 of ENSR00000205340 eRNA expression level across several different human tissues
 (Breast, Liver, Nerve, Ovary, and Uterus). The figure presents a group of bar graphs 
 showing both the mean and standard deviation error bars for the expression level 
-in reads per million (RPM).
+of the eRNA in reads per million (RPM).
 
 <h2>Data</h2>
 
