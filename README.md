@@ -8,7 +8,8 @@ analysis is based on.
 The repository contains code to interpret part of the eRNA Expression Module
 of the Human enhancer RNA Atlas (HeRA) available at (https://hanlab.tamhsc.edu/HeRA/) 
 Our team wrote the code ourselves in the Jupyter notebook to create a figure 
-of ENSR00000205340 eRNA expression level across several different human tissues.
+of ENSR00000205340 eRNA expression level across several different human tissues
+(Breast, Liver, Nerve, Ovary, and Uterus).
 
 <h2>Data</h2>
 
