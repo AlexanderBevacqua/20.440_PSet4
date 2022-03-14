@@ -16,14 +16,27 @@ At a high level, how was the data generated?
 If it’s too large to upload to your GitHub, where can it be accessed?
 Include citations, if any.
 
-The data, acquired from the HeRA, is located in the repository and is 
-available at https://hanlab.tamhsc.edu/HeRA/m1
+The data, acquired from the HeRA, is located in this repository and is 
+available at (https://hanlab.tamhsc.edu/HeRA/m1). The eRNA Expression Module
+offers raw data csv files on specific eRNA to analyze their transcriptomic 
+differences across different tissue types.
+
+Z. Zhang et al., “HeRA: an atlas of enhancer RNAs across human tissues,” Nucleic Acids Res.,
+vol. 49, no. D1, pp. D932–D938, 2021.
 
 <h2>Folder structure </h2>
 
 At a high level, what is in each folder and subfolder?
 
+The Jupyter notebook is located at https://github.com/AlexanderBevacqua/20.440_PSet4 and the
+Data and Figures are located in separate folders with those respective names. You can run 
+the code in the Jupyter notebook and the figure will be saved into the Figures folder, as
+well as displayed within the notebook itself.
+
 <h2>Installation </h2>
 
 How do I run your code?
+
+Please download the ZIP file of the repository, unzip it, and open the Jupyter notebook
+using your preferred method (I use Anaconda Navigator).
 
