@@ -20,7 +20,8 @@ Include citations, if any.
 The data, acquired from the HeRA, is located in this repository and is 
 available at (https://hanlab.tamhsc.edu/HeRA/m1). The eRNA Expression Module
 offers raw data csv files on specific eRNA to analyze their transcriptomic 
-differences across different tissue types.
+differences across different tissue types. Nothing about these files was changed
+to facilitate the reproducibility of our work.
 
 Z. Zhang et al., “HeRA: an atlas of enhancer RNAs across human tissues,” Nucleic Acids Res.,
 vol. 49, no. D1, pp. D932–D938, 2021.
